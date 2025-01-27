@@ -17,7 +17,7 @@
       ]
     },
     "geometricError": 1.36435389,
-    "refine": "REPLACE",
+    "refine": "ADD",
     "transform": [
       0.02634637, 0.99965287, -0.0, 0.0, -0.68778422, 0.01812691, 0.72568883,
       0.0, 0.72543693, -0.01911927, 0.68802305, 0.0, 4634250.414762,
@@ -33,7 +33,7 @@
           ]
         },
         "geometricError": 0.70506714,
-        "refine": "REPLACE",
+        "refine": "ADD",
         "content": { "url": "lod1_3.b3dm" },
         "children": [
           {
@@ -44,7 +44,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_13.b3dm" }
           },
           {
@@ -55,7 +55,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_10.b3dm" }
           },
           {
@@ -66,7 +66,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_8.b3dm" }
           }
         ]
@@ -79,7 +79,7 @@
           ]
         },
         "geometricError": 0.57856589,
-        "refine": "REPLACE",
+        "refine": "ADD",
         "content": { "url": "lod1_2.b3dm" },
         "children": [
           {
@@ -90,7 +90,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_11.b3dm" }
           },
           {
@@ -101,7 +101,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_14.b3dm" }
           },
           {
@@ -112,7 +112,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_3.b3dm" }
           }
         ]
@@ -125,7 +125,7 @@
           ]
         },
         "geometricError": 0.89114417,
-        "refine": "REPLACE",
+        "refine": "ADD",
         "content": { "url": "lod1_1.b3dm" },
         "children": [
           {
@@ -136,7 +136,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_7.b3dm" }
           },
           {
@@ -147,7 +147,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_12.b3dm" }
           },
           {
@@ -158,7 +158,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_1.b3dm" }
           }
         ]
@@ -171,7 +171,7 @@
           ]
         },
         "geometricError": 0.77554212,
-        "refine": "REPLACE",
+        "refine": "ADD",
         "content": { "url": "lod1_0.b3dm" },
         "children": [
           {
@@ -182,7 +182,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_6.b3dm" }
           },
           {
@@ -193,7 +193,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_4.b3dm" }
           },
           {
@@ -204,7 +204,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_9.b3dm" }
           },
           {
@@ -215,7 +215,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_5.b3dm" }
           },
           {
@@ -226,7 +226,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_2.b3dm" }
           },
           {
@@ -237,7 +237,7 @@
               ]
             },
             "geometricError": 0.0,
-            "refine": "REPLACE",
+            "refine": "ADD",
             "content": { "url": "lod0_0.b3dm" }
           }
         ]
